@@ -1,2 +1,2 @@
-# data-analysis-tasks
+# Data Analysis
 Data Science approaches and tasks📊
